@@ -401,19 +401,19 @@ button:hover {
 }
 
 .blog-card-image-one {
-    background: url(../images/image-currency.jpg);
+    background: url(images/image-currency.jpg);
 }
 
 .blog-card-image-two {
-    background: url(../images/image-restaurant.jpg);
+    background: url(images/image-restaurant.jpg);
 }
 
 .blog-card-image-three {
-    background: url(../images/image-plane.jpg);
+    background: url(images/image-plane.jpg);
 }
 
 .blog-card-image-four {
-    background: url(../images/image-confetti.jpg);
+    background: url(images/image-confetti.jpg);
 }
 
 .blog-container {
