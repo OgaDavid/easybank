@@ -907,7 +907,9 @@ textarea {
         margin-left: 1.3rem;
     }
     .home-left h1 {
-        padding-right: 6.5rem;
+        width: 70%;
+        margin-right: auto;
+        margin-left: auto;
     }
     .home-left p 
         width: 100%;
